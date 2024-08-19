@@ -1,15 +1,41 @@
-- 👋 Hi, I’m @sung-ju-park
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello, I'm Sung-Ju Park 👋
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/3498db/ffffff?text=Welcome+to+My+GitHub" alt="Welcome Banner" />
+</div>
+🌟 Skills 🌟
+Languages
+Show Image
+Show Image
+Show Image
+Show Image
+ML/DL
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Front-End
+Show Image
+Show Image
+Show Image
+Back-End
+Show Image
+Show Image
+Show Image
+Show Image
+Tools
+Show Image
+Show Image
+Show Image
 
-<!---
-sung-ju-park/sung-ju-park is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sung-ju-park&show_icons=true&theme=radical" alt="Sung-Ju Park's GitHub stats" />
+</div>
 
-![sung-ju-park's GitHub stats](https://github-readme-stats.vercel.app/api?username=sung-ju-park&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sung-ju-park&layout=compact)
+<div align="center">
+Show Image
+Show Image
+Show Image
+</div>
