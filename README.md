@@ -1,4 +1,8 @@
-![Header Image](https://example.com/your-header-image.png)
+<!-- 헤더 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:1e90ff&height=200&section=header&text=Sung-Ju%20Park&fontSize=50&fontColor=ffffff" alt="header" />
+</p>
+
 
 <h1 align="center">Hello, I'm Sung-Ju Park 👋</h1>
 
