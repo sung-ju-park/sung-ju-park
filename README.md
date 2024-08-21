@@ -57,7 +57,19 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sung-ju-park&layout=compact)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sung-ju-park&show_icons=true&theme=radical" alt="Sung-Ju Park's GitHub stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sung-ju-park&layout=compact&theme=radical" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
