@@ -13,6 +13,11 @@
   2024-03-08 ~ 2024-09-06 (6개월간)<br>
   </p>
 
+  <p align="center">
+  <a href="https://www.notion.so/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e&pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/></a>
+</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/LANGUAGE-Python-blue?style=flat-square&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/LANGUAGE-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript"/>
@@ -66,7 +71,4 @@
 
 <h3 align="center">🌍 Connect with Me</h3>
 
-<p align="center">
-  <a href="https://www.notion.so/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e&pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/></a>
-</p>
 
