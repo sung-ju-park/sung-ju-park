@@ -18,6 +18,14 @@
   </a>
 </p>
 
+<h2 align="center">🚀 주요 프로젝트 🚀</h2>
+
+- **프로젝트 4** (2024.08)
+- **의사소통 AI챗봇**: 바쁜 일상 속에서 병원을 방문할 시간이 없거나, 어느 병원에 가야 할지 고민하는 사용자들을 위한 의료 상담 챗봇 (2024.08)
+- **PLAN UP**: 취업 준비생을 위한 일정관리 애플리케이션 (2024.07)
+  - Google Play 다운로드 링크: [플랜업 (PLAN UP)](https://play.google.com/store/apps/details?id=yourapp)
+- **Mind Glow**: 서울시 정신건강 복지 센터 안내 및 상담사와 실시간 채팅 플랫폼 서비스 (2024.05)
+
 <h2 align="center">⚡ Skills ⚡</h2>
 
 <p align="center">
@@ -54,9 +62,6 @@
   <img src="https://img.shields.io/badge/Tools-GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
 </p>
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 My GitHub Stats 📊</h2>
-
 <div align="center">
   <table>
     <tr>
@@ -69,15 +74,3 @@
     </tr>
   </table>
 </div>
-
-
-
-
-
-<h3 align="center">🌍 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://www.notion.so/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e&pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
-  </a>
-</p>
