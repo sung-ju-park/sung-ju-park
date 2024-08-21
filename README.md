@@ -8,8 +8,8 @@
 <h2 align="center">📚 Education 📚</h2>
 
 <p align="center">
-  AI 기반 챗봇 및 OCR 개발 전문가 과정<br>
-  2024-03-08 ~ 2024-09-06 (6개월간)<br>
+  <strong>AI 기반 챗봇 및 OCR 개발 전문가 과정</strong><br>
+  <strong>2024-03-08 ~ 2024-09-06 (6개월간)</strong><br>
 </p>
 
 <p align="center">
