@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:1e90ff&height=200&section=header&text=Sung-Ju%20Park&fontSize=50&fontColor=ffffff" alt="header" />
 </p>
 
-
 <h1 align="center">Hello, I'm Sung-Ju Park 👋</h1>
 
 <h2 align="center">📚 Education 📚</h2>
@@ -11,18 +10,12 @@
 <p align="center">
   AI 기반 챗봇 및 OCR 개발 전문가 과정<br>
   2024-03-08 ~ 2024-09-06 (6개월간)<br>
-  </p>
-
-  <p align="center">
-  <a href="https://www.notion.so/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e&pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/></a>
 </p>
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/LANGUAGE-Python-blue?style=flat-square&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/LANGUAGE-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/LANGUAGE-HTML5-orange?style=flat-square&logo=html5" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/LANGUAGE-CSS3-blue?style=flat-square&logo=css3" alt="CSS3"/>
+  <a href="https://www.notion.so/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e&pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+  </a>
 </p>
 
 <h2 align="center">⚡ Skills ⚡</h2>
@@ -71,4 +64,8 @@
 
 <h3 align="center">🌍 Connect with Me</h3>
 
-
+<p align="center">
+  <a href="https://www.notion.so/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e&pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+  </a>
+</p>
