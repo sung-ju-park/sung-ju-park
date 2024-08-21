@@ -6,6 +6,14 @@
 
 <h1 align="center">Hello, I'm Sung-Ju Park 👋</h1>
 
+<h2 align="center">📚 Education 📚</h2>
+
+<p align="center">
+  AI 기반 챗봇 및 OCR 개발 전문가 과정<br>
+  2024-03-08 ~ 2024-09-06 (6개월간)<br>
+  
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/LANGUAGE-Python-blue?style=flat-square&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/LANGUAGE-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript"/>
