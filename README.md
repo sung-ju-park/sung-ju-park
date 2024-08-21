@@ -54,13 +54,20 @@
   <img src="https://img.shields.io/badge/Tools-GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sung-ju-park&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+<!-- GitHub Stats & Most Used Languages -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sung-ju-park&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sung-ju-park&layout=compact&theme=radical" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sung-ju-park&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 <h3 align="center">🌍 Connect with Me</h3>
 
