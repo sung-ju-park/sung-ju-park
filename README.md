@@ -61,14 +61,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sung-ju-park&show_icons=true&theme=radical" alt="Sung-Ju Park's GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sung-ju-park&show_icons=true&theme=default" alt="Sung-Ju Park's GitHub stats"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sung-ju-park&layout=compact&theme=radical" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sung-ju-park&layout=compact&theme=default" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
