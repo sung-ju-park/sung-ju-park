@@ -57,20 +57,8 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3 align="center">📈 Sung-Ju Park's GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=sung-ju-park&show_icons=true&theme=radical" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <h3 align="center">📊 Most Used Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sung-ju-park&layout=compact&theme=radical" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sung-ju-park&layout=compact)
+
 
 
 <h3 align="center">🌍 Connect with Me</h3>
