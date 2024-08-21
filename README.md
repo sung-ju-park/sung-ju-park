@@ -77,5 +77,6 @@
 
 <!-- 푸터 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:1e90ff&height=200&section=footer&text=Sung-Ju%20Park&fontSize=50&fontColor=ffffff" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:1e90ff&height=100&section=footer" alt="footer" />
 </p>
+
