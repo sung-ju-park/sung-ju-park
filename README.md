@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hello, I'm Sung-Ju Park 👋</h1>
-📅 1999. 12. 12 | 📧 tjdwn9386@naver.com | 📞 010.4943.8658
+<p align="center">📅 1999. 12. 12 | 📧 tjdwn9386@naver.com | 📞 010.4943.8658</p>
 <h2 align="center">📚 Education 📚</h2>
 
 <p align="center">
