@@ -22,9 +22,9 @@
 
 - [**Motorshot**](https://github.com/sung-ju-park/MotorShot):오토바이 헬멧 미착용 및 위협운전 탐지 컴퓨터비전 프로젝트 (2024.09)
 - [**의사소통 AI챗봇**](https://github.com/sung-ju-park/DoctorChat_frontend): 바쁜 일상 속에서 병원을 방문할 시간이 없거나, 어느 병원에 가야 할지 고민하는 사용자들을 위한 의료 상담 챗봇 (2024.08)
-- **PLAN UP**: 취업 준비생을 위한 일정관리 애플리케이션 (2024.07)
+- [**PLAN UP**](https://github.com/sung-ju-park/PlanUP_frontend): 취업 준비생을 위한 일정관리 애플리케이션 (2024.07)
   - Google Play 다운로드 링크: [플랜업 (PLAN UP)](https://play.google.com/store/apps/details?id=yourapp)
-- **Book Hub**: 서울시 도서관중에서 자신이 원하는책 검색하여 위치확인 (2024.05)
+- [**Book Hub**](https://github.com/sung-ju-park/BookHub): 서울시 도서관중에서 자신이 원하는책 검색하여 위치확인 (2024.05)
 
 <h2 align="center">⚡ Skills ⚡</h2>
 
