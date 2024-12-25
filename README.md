@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.notion.so/79e7e0e64b8c474db3e5eb30479e5ba7" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Simple_arrow_right.svg/1200px-Simple_arrow_right.svg.png" width="20" alt="Arrow" style="vertical-align: middle; margin-right: 5px;"/>
+  👉 <a href="https://www.notion.so/79e7e0e64b8c474db3e5eb30479e5ba7" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
   </a>
 </p>
+
 
 
 <h2 align="center">🚀 주요 프로젝트 🚀</h2>
