@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.notion.so/b01732bf8f8045662a8bdcb6b79feaa5" target="_blank">
+  <a href="https://www.notion.so/79e7e0e64b8c474db3e5eb30479e5ba7" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
   </a>
 </p>
